@@ -2,7 +2,7 @@ Business-Central Showcase Docker image
 ============================================
 
 Build for ARM version
-Everything is copy from <https://github.com/jboss-dockerfiles/business-central>
+Everything is build on <https://github.com/jboss-dockerfiles>, see docker in <https://hub.docker.com/r/bxb100/business-central-workbench-showcase>
 
 docker version descripe:
 > baseOn:
